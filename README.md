@@ -1,5 +1,6 @@
 # Overview
-This repository contains code for a blog post on static analysis tools for the Java language.
+This repository contains code for a blog post on static analysis tools for the Java language you can find [on my blog
+](https://blog.adebski.com/posts/incomplete-list-of-static-analysis-tools-for-java/).
 
 # Compiling and running static analysis
 Run `mvn validate` to compile the code and execute all the static analysis tools configured in the project.
